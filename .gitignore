@@ -1,0 +1,10 @@
+/.metadata/
+/bin/
+bin/
+Debug/
+.vs/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
